@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/loopielounft/static/css/main.a5b97bd2.chunk.css",
+    "main.js": "/loopielounft/static/js/main.c7c0005e.chunk.js",
+    "main.js.map": "/loopielounft/static/js/main.c7c0005e.chunk.js.map",
+    "runtime-main.js": "/loopielounft/static/js/runtime-main.d83164f0.js",
+    "runtime-main.js.map": "/loopielounft/static/js/runtime-main.d83164f0.js.map",
+    "static/js/2.1830f9d3.chunk.js": "/loopielounft/static/js/2.1830f9d3.chunk.js",
+    "static/js/2.1830f9d3.chunk.js.map": "/loopielounft/static/js/2.1830f9d3.chunk.js.map",
+    "static/js/3.1c668a6c.chunk.js": "/loopielounft/static/js/3.1c668a6c.chunk.js",
+    "static/js/3.1c668a6c.chunk.js.map": "/loopielounft/static/js/3.1c668a6c.chunk.js.map",
+    "index.html": "/loopielounft/index.html",
+    "static/css/main.a5b97bd2.chunk.css.map": "/loopielounft/static/css/main.a5b97bd2.chunk.css.map",
+    "static/js/2.1830f9d3.chunk.js.LICENSE.txt": "/loopielounft/static/js/2.1830f9d3.chunk.js.LICENSE.txt",
+    "static/media/1.f1a83595.png": "/loopielounft/static/media/1.f1a83595.png",
+    "static/media/reset.css": "/loopielounft/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d83164f0.js",
+    "static/js/2.1830f9d3.chunk.js",
+    "static/css/main.a5b97bd2.chunk.css",
+    "static/js/main.c7c0005e.chunk.js"
+  ]
+}
